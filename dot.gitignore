@@ -1,0 +1,32 @@
+# alles ignorieren
+/*
+
+!.gitignore
+
+# composer
+!composer.json
+!composer.lock
+
+# configs
+!/app
+/app/*
+
+!/app/etc
+/app/etc/*
+
+!app/etc/env.php.dist
+!app/etc/config.php.dist
+
+# code
+!/app/code
+!/app/code/*
+
+
+# design
+!/app/design
+/app/design/*
+
+!/app/design/frontend
+/app/design/frontend/*
+
+!/app/design/frontend/Zemez
