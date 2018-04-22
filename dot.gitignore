@@ -27,6 +27,5 @@
 /app/design/*
 
 !/app/design/frontend
-/app/design/frontend/*
-
-!/app/design/frontend/Zemez
+!/app/design/frontend/*
+/app/design/frontend/Magento
